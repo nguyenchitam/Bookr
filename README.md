@@ -1,4 +1,3 @@
-================================================================
 Bookr - a document reader for the Sony PSP - http://bookr.sf.net
 ================================================================
 
@@ -73,7 +72,7 @@ DjVuLibre 3.5 by Leon Bottou and Yann Le Cun
 
 
 
-=========
+
 Changelog
 ========= 
 
